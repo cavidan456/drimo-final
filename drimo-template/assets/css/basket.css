@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    width: 70%;
+    margin: auto;
+}
+
+nav a{
+    color: black;
+}
+
+.clr-link{
+    color: #88BFEA;
+}
+
+nav a:hover{
+    color: #88BFEA;
+}
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.navbar-nav{
+    gap: 20px;
+}
+
+#data-sec{
+    width: 100%;
+    min-height: 660px;
+}
+
+#products img{
+    width: 100%;
+}
+
+#products button{
+    border: none;
+    background-color: #f85717;
+    color: #fff;
+    padding: 5px 15px ;
+    border-radius: 15px;
+}
+
+#products button:hover{
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    text-align: center;
+}
